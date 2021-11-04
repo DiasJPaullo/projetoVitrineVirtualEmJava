@@ -1,0 +1,93 @@
+{
+    "id": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10","11", "12"],
+	
+    "nome": [
+	
+		"Use a cabeça!: aprenda a programar", 
+		"Use a Cabeça! Python ― 2ª Edição",
+		"O codificador limpo: Um código de conduta para programadores",
+		"Curso Intensivo de Python: Uma introdução prática" ,
+		"Automatize tarefas maçantes com Python",
+		"Algoritmos E Lógica Da Programação de computadores",
+		"Aprenda Python do Jeito Certo",
+		"Introdução à Programação com Python",
+		"Fundamentos da Programação de Computadores",
+		"Entendendo Algoritmos: Um Guia Ilustrado",
+		"Java em rede: recursos avançados de programação",
+		"Python Fluente:Programação Clara, Concisa e Eficaz"
+	
+        
+	],
+    "descricao":[
+	
+	"Não é segredo que o mundo à sua volta está cada vez mais conectado,  configurável, programável e computacional. Você pode continuar como um participante passivo ou pode aprender a programar. Com Use a Cabeça! Aprenda a Programar você aprenderá a pensar computacionalmente e a escrever código para fazer com que qualquer coisa com um CPU faça coisas por você Usando a linguagem de programação Python, você aprenderá os conceitos centrais da programação, além dos tópicos fundamentais da ciência da computação,como estruturas de dados, armazenamento, abstração, recursão e modularidade.",
+		
+"O que você aprenderá com este livro? Deseja aprender a linguagem Pythonsem percorrer um longo caminho com manuais? Com o Use a Cabeça! Python, você entenderá rapidamente os fundamentos do Python trabalhando com estruturas de dados e funções predefinidas. Então poderá construir seu próprio aplicativo web explorando o gerenciamento do banco de dados, tratamento de exceções e administração dos dados. Se você fica intrigado com o que pode fazer com os gerenciadores de texto, decoradores, compreensões e geradores, tudo estará aqui também. Esta segunda edição é uma experiência de aprendizado completa que o ajudará a se tornar um programador Python em pouco tempo. O que é tão especial neste livro? Com base nas últimas pesquisas em Ciência Cognitiva e Teoria do Aprendizado,o livro Use a Cabeça Python usa um formato visualmente rico, para envolver sua mente, em vez da abordagem com muito texto que o deixa com sono.",
+		
+"Então você quer ser um profissional do desenvolvimento de softwares. Quer erguer a cabeça e declarar para o mundo: “Eu sou um profissional!.Quer que as pessoas olhem para você com respeito e o tratem com consideração.Você quer isso tudo. Certo?O termo “Profissionalismo” é, sem dúvida, um distintivo de honra e orgulho, mas também é um marcador de incumbência e responsabilidade, que inclui trabalhar bem e honestamente.Verdadeiros profissionais praticam e trabalham firme para manter suas habilidades afiadas e prontas. Não é o bastante simplesmente fazer suas tarefas diárias e chamar isso de prática. Realizar seu trabalho diário é performance, e não prática. Prática é quando você especificamente exercita as habilidades fora do seu ambiente de trabalho com o único propósito de potencializá-las.O Codificador Limpo contém muitos conselhos pragmáticos que visam transformar o comportamento do  profissional de software. O autor transmite valiosos ensinamentos sobre ética, respeito,responsabilidade, sinceridade e comprometimento, através de sua experiência como programador.",
+		
+"Curso Intensivo de Python é uma introdução completa e em ritmo acelerado à linguagem Python, que fará você escrever programas, resolver problemas e criar soluções que funcionarão em um piscar de olhos.Na primeira metade do livro você conhecerá os conceitos básicos de programação,como listas,dicionários, classes e laços, e praticará a escrita de códigos limpos e legíveis,com exercícios para cada assunto. Você também aprenderá a deixar seus programas interativos e a testar seu código de modo seguro antes de adicioná-lo a um projeto. Na segunda metade do livro você colocará seu novo conhecimento em prática com três projetos substanciais: um jogo de arcade, inspirado no Space Invaders, visualizações de dados com as bibliotecas extremamente práticas de Python, e uma aplicação web simples que poderá ser implantada online. À medida que avançar no Curso Intensivo de Python, você aprenderá a: usar bibliotecas Python e ferramentas eficazes, incluindo matplotlib, NumPy e Pygal; criar jogos 2D que respondam a pressionamentos de teclas e a cliques de mouse, com aumento no nível de dificuldade à medida que o jogo prosseguir; trabalhar com dados para gerar visualizações interativas; criar e personalizar aplicações web e implantá-las de modo seguro online; lidar com equívocos e erros para que você possa resolver seus próprios problemas de programação.Se você está pensando seriamente em explorar a programação, Curso Intensivo de Python deixará você pronto num instante para escrever programas de verdade. Por que esperar mais.Ligue seus motores e comece a programar!",
+		
+"Se você já passou horas renomeando arquivos ou atualizando centenas de células de planilhas, sabe quão maçantes podem ser esses tipos de tarefa. Que tal se você pudesse fazer o seu computador executá-las para você? Com o livro Automatize tarefas maçantes com Python, você aprenderá a usar o Python para criar programas que farão em minutos o que exigiria horas para ser feito manualmente – sem que seja necessário ter qualquer experiência anterior com programação.Após ter dominado o básico sobre programação, você criará programas Python que realizarão proezas úteis e impressionantes de automação sem nenhum esforço  Pesquisar texto em um arquivo ou em vários arquivos.Criar, atualizar, mover e renomear arquivos e pastas.Pesquisar na Web e fazer download de conteúdos online.Atualizar e formatar dados em planilhas Excel de qualquer tamanho.Separar, combinar, adicionar marcas-d'água e criptografar PDFs.Enviar emails para lembretes e notificações textuais. Preencher formulários online.Instruções passo a passo descreverão cada programa e projetos práticos no final de cada capítulo desafiarão você a aperfeiçoar esses programas e a usar suas habilidades recém-adquiridas para automatizar tarefas semelhantes.",
+		
+"Com linguagem simples e didática – sem, no entanto, fugir da complexidade do assunto –,o livro procura tornar prática a lógica de programação, além de mostrar aos estudantes um caminho mais adequado na construção dos algoritmos. O desenvolvimento do raciocínio lógico e da abstração de procedimentos e dados são as maiores dificuldades para os estudantes dos cursos introdutórios. Nesse sentido, os autores resolvem os problemas propostos passo a passo, apresentando todos os conceitos envolvidos por meio de fluxogramas e em conjunto com pseudocódigos.",
+
+"Zed Shaw aperfeiçoou o melhor sistema do mundo para aprender o Python 3. Siga-o e você será bem-sucedido ― como os milhões de novatos que Zed ensinou até hoje! Você entra com a disciplina, o comprometimento e a persistência; o autor proporciona o resto.No livro Aprenda Python 3 Hard Way, você estudará o Python através de 52 exercícios brilhantemente desenvolvidos. Leia-os. Digite o código com precisão (sem copiar nem colar!). Corrija seus erros. Veja a execução dos programas. Ao fazer isso, aprenderá como funciona um computador; como são os bons programas; e como ler, escrever e pensar em código. Além disso, Zed ensina ainda mais em +5 horas de vídeo, mostrando como pausar, corrigir e depurar seu código ― ao vivo, enquanto faz os exercícios.Será difícil no início. Mas logo você pegará o jeito ― e se sentirá ótimo! Este curso recompensará você por cada minuto gasto nele. Em pouco tempo você conhecerá uma das linguagens de programação mais populares e poderosas do mundo. Você será um programador Python. Completos iniciantes, com zero experiência em programação Desenvolvedores júnior que conhecem uma ou duas linguagens Antigos profissionais que não escrevem código há anos Profissionais experientes que desejam um curso rápido, simples e intensivo de Python 3",
+		
+"Este livro é orientado ao iniciante em programação. Os conceitos básicos de programação como expressões variáveis repetições decisões listas funções e arquivos são apresentados um a um com exemplos e exercícios. A obra visa explorar a programação de computadores como ferramenta do dia a dia. Ela pode ser lida durante um curso de introdução à programação de computadores e usada como guia de estudo para autodidatas. Para aproveitamento pleno do conteúdo conhecimentos básicos de informática como digitar textos abrir e salvar arquivos são suficientes. Todo software utilizado no livro pode ser baixado gratuitamente sendo executado em Windows Linux e Mac OS X. Embora a linguagem Python (versão 3.x) seja muito poderosa e repleta de recursos modernos de programação este livro não pretende ensinar a linguagem em si mas ensinar a programar. Alguns recursos da linguagem não foram utilizados para privilegiar os exercícios de lógica de programação e oferecer uma preparação mais ampla ao leitor para outras linguagens. Essa escolha não impediu a apresentação de recursos poderosos da linguagem embora o livro não seja fundamentalmente uma obra de referência.",
+		
+"Referência na área, Fundamentos da programação de computadores: algoritmos,PASCAL, C/C++ (padrão ANSI) e JAVA traz em sua nova edição muitas novidades. Mantendo a estrutura lógica que o consagrou, o livro revisa as classes JAVA e tratade vetores e matrizes dinâmicas, bem como aborda o padrão ANSI para as resoluções em C/C++. Além disso, apresenta dois capítulos inéditos: Introdução à programação orientada a objetos e Desa os. Tudo isso somado aos diversos exemplos, problemas e analogias apresentados fazem desta obra ideal para alunos de ciência da computação, engenharia da computação,sistemas de informação, análise de sistemas e desenvolvimento de sistemas.",
+		
+"Um guia ilustrado para programadores e outros curiosos.Um algoritmo nada mais é do que um procedimento passo a passo para a resolução de um problema. Os algoritmos que você mais utilizará como um programador já foram descobertos, testados e provados. Se você quer entendê-los, mas se recusa a estudar páginas e mais páginas de provas, este é o livro certo. Este guia cativante e completamente ilustrado torna simples aprender como utilizar os principais algoritmos nos seus programas.O livro Entendendo Algoritmos apresenta uma abordagem agradável para esse tópico essencial da ciência da computação. Nele, você aprenderá como aplicar algoritmos comuns nos problemas de programação enfrentados diariamente. Você começará com tarefas básicas como a ordenação e a pesquisa. Com a prática, você enfrentará problemas mais complexos, como a compressão de dados e a inteligência artificial. Cada exemplo é apresentado em detalhes e inclui diagramas e códigos completos em Python. Ao final deste livro, você terá dominado algoritmos amplamente aplicáveis e saberá quando e onde utilizá-los.",
+		
+"Java é uma linguagem de programação de uso geral extremamente rica e poderosa. Hoje, Java se apresenta como uma plataforma de desenvolvimento completa utilizada em diversos cenários de programação. Entre esses cenários, Java vem alcançando papel de destaque quando a comunicação em rede é um requisito básico.A Internet, bem como o grande conjunto de tecnologias de conexão disponíveis, possui uma considerável complexidade em termos de estrutura e operação. Auxiliar na compreensão dessa rede e dos padrões relacionados é um desafio dos cursos de redes de computadores. A utilização prática das estruturas de rede através da programação é uma boa ferramenta no auxílio ao estudo dessa área. Esse objetivo foi amplamente alcançado com o livro Java em Rede - Programação Distribuída na Internet, também publicado pela Brasport. Neste novo livro, um desafio maior é alcançado. Agora, estamos interessados em estudar aspectos avançados da comunicação em rede, utilizando a programação na linguagem Java como base. Inclui CD-ROM com exemplos práticos do livro.",
+
+
+"A simplicidade do Python permite que você se torne produtivo rapidamente, mas isso geralmente significa que você não está usando tudo o que ele tem a oferecer. Com este guia prático, você aprenderá a escrever código Python eficaz e idiomático aproveitando seus melhores - e possivelmente mais negligenciados - recursos. O autor Luciano Ramalho apresenta os principais recursos e bibliotecas da linguagem Python e mostra como tornar seu código mais curto, mais rápido e mais legível ao mesmo tempo. Muitos programadores experientes tentam ajustar o Python para se ajustar aos padrões que aprenderam em outras linguagens e nunca descobrem os recursos do Python fora de sua experiência. Com este livro, esses programadores Python aprenderão completamente como se tornar proficientes em Python 3."
+	
+	],
+    "preco":[
+	
+	"R$ 94,59", 
+	"R$ 83,74",
+	"R$ 50,91",
+	"R$ 101,61",
+	"R$ 52,99",
+	"R$ 66,76",
+	"R$ 126,99",
+	"R$ 57,99",
+	"R$ 53,66",
+	"R$ 42,90",
+	"R$ 109,98",
+	"R$ 99,80"
+
+	
+	],
+    "nomeImagem":[
+	"produto1", 
+	"produto2",
+	"produto3",
+	"produto4", 
+	"produto5",
+	"produto6",
+	"produto7", 
+	"produto8",
+	"produto9",
+	"produto10",
+	"produto11", 
+	"produto12",
+	"img1.jpg",
+	"img2.jpg",
+	"img3.jpg",
+	"img4.jpg",
+	"img5.jpg",
+	"img6.jpg",
+	"img7.png",
+	"img8.jpg",
+	"img9.jpg",
+	"img10.jpg",
+	"img11.png",
+	"img1.jpg"
+        
+	]
+}
